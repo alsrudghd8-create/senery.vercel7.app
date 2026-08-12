@@ -1,0 +1,6 @@
+{
+  "name": "언제나 다정한 죽집 - 이야기와 현실 세계 비교하기",
+  "description": "초등학교 4학년 2학기 국어: 이야기 속 세상과 현실 세계를 비교하며 '언제나 다정한 죽집' 작품을 감상하고, 나만의 따뜻한 마음을 나누는 수업 어플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
